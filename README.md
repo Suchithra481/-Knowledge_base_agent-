@@ -33,4 +33,7 @@ Watch the full demo video on Google Drive:
 
 🔗 https://drive.google.com/file/d/1m9AmJNDRIw4dClkTMrkmcqVvk6Ekvax8/view?usp=drive_link
 
+The working link:
+https://suchithra481--knowledge-base-agent--app-mafplu.streamlit.app/
+
 
